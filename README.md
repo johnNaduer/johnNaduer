@@ -6,7 +6,7 @@ I am a passionate software developer with frontend, backend and sql experience. 
 </h4>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%20-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j-naduer/)
-[![Twitter](https://img.shields.io/badge/Twitter-%20-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YarosJhon)
+[![Twitter](https://img.shields.io/badge/Twitter-%20-1DA1F2?style=flat-square&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/YarosJhon)
 
 
 
