@@ -5,7 +5,8 @@
 I am a passionate software developer with frontend, backend and sql experience. I love creating innovative and challenging solutions, and I am passionate about collaborating with other developers to drive technological advancement.
 </h4>
 
-![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fj-naduer%2F?logo=linkedin&color=rgb(0%2C%20100%2C%20255)&cacheSeconds=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fj-naduer%2F&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fj-naduer%2F)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j-naduer/)
+
 
 
 
