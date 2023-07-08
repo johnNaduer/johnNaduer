@@ -4,6 +4,8 @@
 <h4 align="center">
 I am a passionate software developer with frontend, backend and sql experience. I love creating innovative and challenging solutions, and I am passionate about collaborating with other developers to drive technological advancement.
 </h4>
+
+![](https://img.shields.io/github/stars/pandao/editor.md.svg)
 <!--
 **johnNaduer/johnNaduer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
