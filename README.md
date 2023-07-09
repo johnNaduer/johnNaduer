@@ -5,9 +5,17 @@
 I am a passionate software developer with frontend, backend and sql experience. I love creating innovative and challenging solutions, and I am passionate about collaborating with other developers to drive technological advancement.
 </h4>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j-naduer/)
-[![Twitter](https://img.shields.io/badge/Twitter-%20-blue?style=flat-square&logo=twitter&logoColor=white&color=2AA3EF)](https://twitter.com/YarosJhon)
-
+<div id="badges">
+    <a href="https://www.linkedin.com/in/rubencadenas">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.youtube.com/@rubencadur">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+    <a href="https://twitter.com/rubencadur">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
 
 
 
