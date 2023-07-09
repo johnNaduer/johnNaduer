@@ -5,7 +5,7 @@
 I am a passionate software developer with frontend, backend and sql experience. I love creating innovative and challenging solutions, and I am passionate about collaborating with other developers to drive technological advancement.
 </h4>
 
-<div id="badges">
+<div id="badges" align="center">
     <a href="https://www.linkedin.com/in/rubencadenas">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
