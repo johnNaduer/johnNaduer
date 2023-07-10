@@ -15,6 +15,10 @@ I am a passionate software developer with frontend, backend and sql experience. 
     <a href="https://twitter.com/YarosJhon">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
+    <a href="https://www.instagram.com/tu_nombre_de_usuario/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+     </a>
+
   </div>
 
 
