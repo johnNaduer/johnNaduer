@@ -35,6 +35,7 @@ I am a passionate software developer with frontend, backend and sql experience. 
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="" **alt="" width="40" height="40"/>&nbsp;
     </td>
 </tr>
+
 <tr>
 <td>FrontEnd Development:</td>
 <td>
@@ -50,5 +51,19 @@ I am a passionate software developer with frontend, backend and sql experience. 
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>&nbsp;
     </td>
 </tr>
+
+<tr>
+    <td>BackEnd Development:</td>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="" **alt="" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="" **alt="" width="40" height="40"/>&nbsp;
+      <!--kafka-->
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="" **alt="" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="apache" **alt="apache" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/uwsgi/uwsgi-original.svg" title="" **alt="" width="40" height="40"/>&nbsp;
+    </td>
+  </tr>
 </table>
 
