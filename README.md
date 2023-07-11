@@ -24,7 +24,7 @@ I am a passionate software developer with frontend, backend and sql experience. 
    </a>
 
   </div>
-
+---
 <table>
     
 </table>
