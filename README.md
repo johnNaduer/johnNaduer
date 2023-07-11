@@ -22,12 +22,14 @@ I am a passionate software developer with frontend, backend and sql experience. 
    <a href="https://www.facebook.com/jhon.espinoyaros">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
    </a>
-
-  </div>
+</div>
 ---
 <table>
     
 </table>
+---
+
+
 
 <!--
 **johnNaduer/johnNaduer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
