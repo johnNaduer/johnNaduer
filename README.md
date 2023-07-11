@@ -29,3 +29,4 @@ I am a passionate software developer with frontend, backend and sql experience. 
     
 </table>
 ---
+---
