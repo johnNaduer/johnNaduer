@@ -87,7 +87,6 @@ I am a passionate software developer with frontend, backend and sql experience. 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="" **alt="" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="" **alt="" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="" **alt="" width="40" height="40"/>
     </td>
   </tr>
   
