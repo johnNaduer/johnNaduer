@@ -89,6 +89,25 @@ I am a passionate software developer with frontend, backend and sql experience. 
       <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="" **alt="" width="40" height="40"/>&nbsp;
     </td>
   </tr>
+ <tr>
+    <td>DevOps:</td>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="" **alt="" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original-wordmark.svg" title="" **alt="" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="" **alt="" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-line.svg" title="" **alt="" width="40" height="40"/>&nbsp;
+      <!--img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="" **alt="" width="40" height="40"/>&nbsp;-->
+      <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg" title="DigitalOcean" alt="DigitalOcean" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original-wordmark.svg" title="" **alt="" width="40" height="40"/>&nbsp;
+      <br/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="" **alt="" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="" **alt="" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="" **alt="" width="40" height="40"/>&nbsp;
+    </td>
+  </tr>
+  <tr>
   
 </table>
 
